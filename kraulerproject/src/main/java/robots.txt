@@ -1,4 +1,0 @@
-Sitemap: https://www.bfm.ru/sitemap.xml
-Sitemap: https://www.lenta.ru/sitemap.xml
-Sitemap: https://www.regnum.ru/sitemap.xml
-Sitemap: https://www.vesti.ru/sitemap.xml
